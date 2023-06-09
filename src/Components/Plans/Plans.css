@@ -1,0 +1,14 @@
+.plans__cards{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.plans__cards-item{
+    width: 250px;
+    /* height: 400px; */
+    background-color: blue;
+    margin: 50px;
+    padding: 25px;
+    border-radius: 16px;
+    color: azure;
+}
